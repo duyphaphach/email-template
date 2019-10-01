@@ -3,7 +3,137 @@
  **************
  */
 
+// Reset client default css
 body {
+  padding: 0 !important;
+  margin: 0 !important;
+  background: #ffffff;
+  -webkit-text-size-adjust: none;
+}
+
+a {
+  color: #000;
+  text-decoration: none
+}
+
+p {
+  padding: 0 !important;
+  margin: 0 !important
+}
+
+/* Allow smoother rendering of resized image in Internet Explorer */
+img {
+  -ms-interpolation-mode: bicubic;
+}
+
+// Styling
+td {
+  .font-roboto;
+}
+
+.text-secondary {
+  .text-spicy-pink;
+}
+
+.pre-header {
+  display: none !important;
+}
+
+.separator {
+  height: 1px;
+  border-bottom: 1px solid red;
+  width: 100%;
+}
+
+.logo {
+  padding-right: 15px;
+  padding-left: 15px;
+
+  img {
+    width: 291px;
+    height: auto;
+  }
+}
+
+.highlight {
+  padding-right: 15px;
+  padding-left: 15px;
+
+  .title {
+    .font-roboto-bold;
+
+    font-size: 18px;
+  }
+
+  &-content {
+    .thumb {
+      a {
+        display: block;
+        width: 100%;
+
+        img {
+          width: 100%;
+        }
+      }
+    }
+
+    .title {
+      a {
+        .font-roboto-bold;
+        .text-tuatara;
+
+        font-size: 22px;
+      }
+    }
+
+    .description {
+      .font-roboto;
+      .text-tuatara;
+
+      font-size: 15px;
+    }
+
+    .meta {
+      .text {
+        .font-roboto;
+        .text-boulder;
+
+        font-size: 15px;
+      }
+
+      .image {
+        width: 15px;
+      }
+    }
+  }
+
+  .other-highlight {
+    .thumbnail {
+      img {
+        display: block;
+        max-width: 102px;
+        max-height: 102px;
+      }
+    }
+
+    .content {
+      margin-left: 20px;
+    }
+
+    .highlight-content {
+      .title {
+        a {
+          font-size: 18px;
+        }
+      }
+
+      .meta {
+        .text {
+          font-size: 14px;
+        }
+      }
+    }
+  }
 }
 
 /* Custom, iPhone Retina */
