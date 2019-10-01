@@ -1,0 +1,62 @@
+{
+  "paths": {
+    "relative": {
+      "source": "source",
+      "sourceAssets": "source/assets",
+      "sourceImages": "source/assets/images",
+      "sourceFonts": "source/assets/fonts",
+      "sourceScripts": "source/scripts",
+      "sourceStyles": "source/styles",
+      "sourceTemplates": "source/templates",
+      "sourceData": "source/data",
+      "build": "build",
+      "buildAssets": "build/assets",
+      "buildImages": "build/assets/images",
+      "buildFonts": "build/assets/fonts",
+      "buildScripts": "build/scripts",
+      "buildStyles": "build/styles"
+    }
+  },
+  "server": {
+    "browserSync": {
+      "server": {
+        "baseDir": "build"
+      },
+      "port": 9008,
+      "ui": {
+        "port": 9009
+      },
+      "open": false,
+      "files": [],
+      "reloadDelay": 300
+    },
+    "vorlon": {
+      "enable": false
+    }
+  },
+  "assets": {},
+  "styles": {
+    "filters": [
+      "*"
+    ]
+  },
+  "scripts": {
+    "browserify": {
+      "debug": true,
+      "bundleConfigs": {
+        "head": {
+          "entries": "index.js",
+          "outputName": "index.js"
+        },
+        "main": {
+          "entries": "main.js",
+          "outputName": "main.js"
+        }
+      }
+    }
+  },
+
+  "templates": {
+    "swig": {}
+  }
+}

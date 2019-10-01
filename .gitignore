@@ -1,0 +1,8 @@
+.bower/
+.idea/
+build/
+node_modules/
+source/vendors/
+source/scripts/vendors.js
+yarn-error.log
+.env
