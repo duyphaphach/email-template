@@ -5,7 +5,7 @@
   </tr>
   <tr>
     <td align='left' width='650' class='title'>
-      Quick read
+      Based on your reading history
     </td>
   </tr>
   <tr>

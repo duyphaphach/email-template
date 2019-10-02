@@ -5,7 +5,7 @@
   </tr>
   <tr>
     <td align='left' width='650' class='title'>
-      Quick read
+      Best in Javascripts
     </td>
   </tr>
   <tr>
