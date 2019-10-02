@@ -136,8 +136,12 @@
       <!--End Articles by categories-->
 
       <!--Start Make this mail better-->
-
+      {% include '../modules/make-this-better.swig' %}
       <!--End Make this mail better-->
+
+      <!--Start Footer-->
+      {% include '../modules/make-this-better.swig' %}
+      <!--End Footer-->
     </td>
   </tr>
 
