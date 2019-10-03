@@ -138,12 +138,15 @@
       <!--Start Make this mail better-->
       {% include '../modules/make-this-better.swig' %}
       <!--End Make this mail better-->
-
-      <!--Start Footer-->
-      {% include '../modules/make-this-better.swig' %}
-      <!--End Footer-->
     </td>
   </tr>
 
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <!--Start Footer-->
+      {% include '../modules/footer.swig' %}
+      <!--End Footer-->
+    </td>
+  </tr>
 </table>
 {% endblock %}
