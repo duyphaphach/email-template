@@ -3,7 +3,7 @@
 </tr>
 <tr>
   <td  valign="top" width='102' height='102' class='thumbnail'>
-    <img src='https://cdn-images-1.medium.com/fit/c/420/420/1*FoHKdxbySJ8K8GXcC29RKw.png?q=50' alt=''>
+    <img src='https://cdn-images-1.medium.com/fit/c/420/420/1*FoHKdxbySJ8K8GXcC29RKw.png?q=50' width="102" height="102" alt=''>
   </td>
   <td width="18" height="102"></td>
   <td class="item-content" height="102" valign="top">

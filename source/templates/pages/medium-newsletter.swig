@@ -17,31 +17,38 @@
         <tr>
           <td width='650' class='mobile-responsive' height='30'></td>
         </tr>
+
         <tr>
           <td align='left' width='650' class='mobile-responsive'>
-            <img src='https://cdn-images-1.medium.com/proxy/1*5gCbsDPwqJZuveQ1HK7epw.png' alt='Medium Logo'>
+            <img src='https://cdn-images-1.medium.com/proxy/1*5gCbsDPwqJZuveQ1HK7epw.png' width="291" height="25" alt='Medium Logo'>
           </td>
         </tr>
+
         <tr>
           <td width='650' class='mobile-responsive' height='8'></td>
         </tr>
+
         <tr>
           <td width='650' class='mobile-responsive' height='2'>
             <div class='separator'></div>
           </td>
         </tr>
+
         <tr>
           <td width='650' class='mobile-responsive' height='8'></td>
         </tr>
+
         <tr>
-          <td width='650' class='text-secondary mobile-responsive'>
+          <td align="left" width='650' class='text-secondary mobile-responsive'>
             Stories for Alexander Pham
           </td>
         </tr>
+
       </table>
       <!--End Table Email Header-->
     </td>
   </tr>
+
   <tr>
     <td align='center' valign='top' width='100%'>
 
@@ -67,7 +74,7 @@
                 <td align='left' width='650' class='thumb mobile-responsive'>
                   <a href='https://medium.com/@derek_develops/how-to-check-for-a-number-in-javascript-8d9024708153?source=email-3a5bd24b8a8b-1569873987957-digest.reader------0-58------------------609cc773_5e28_4158_bae3_367beb0ca3a2-1-----&amp;sectionName=top'>
                     <span class='image'></span>
-                    <img src='https://www.admecindia.co.in/sites/default/files/webdesign-banner-new.jpg' alt='Hight light image'>
+                    <img src='https://www.admecindia.co.in/sites/default/files/webdesign-banner-new.jpg' alt='Highlight image'>
                   </a>
                 </td>
               </tr>
@@ -75,7 +82,7 @@
                 <td width='650' class='mobile-responsive' height='16'></td>
               </tr>
               <tr>
-                <td width='650' class='title mobile-responsive'>
+                <td width='650' align="left" class='title mobile-responsive'>
                   <a href='https://medium.com/@derek_develops/how-to-check-for-a-number-in-javascript-8d9024708153?source=email-3a5bd24b8a8b-1569873987957-digest.reader------0-58------------------609cc773_5e28_4158_bae3_367beb0ca3a2-1-----&sectionName=top'>
                     How to check for a number in JavaScript
                   </a>

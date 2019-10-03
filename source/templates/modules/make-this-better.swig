@@ -16,7 +16,6 @@
       <div>
         <!--[if mso]>
         <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://medium.com/topics" style="height:40px;v-text-anchor:middle;width:160px;" arcsize="10%" strokecolor="#03a87c" fill="t">
-          <v:fill type="tile" src="" color="#ffffff"/>
           <w:anchorlock/>
           <center style="color:#03a87c;font-family:sans-serif;font-size:15px;font-weight:normal;">Tailor your topics</center>
         </v:roundrect>

@@ -18,13 +18,13 @@
           <td class="pad" width="15"></td>
           <td class="first" align="right">
             <a href='https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=email_digestFooter'>
-              <img src='https://cdn-images-1.medium.com/proxy/1*CXKdDEfFShoF6Azy5V8ZKQ@2x.png' alt=''>
+              <img src='https://cdn-images-1.medium.com/proxy/1*CXKdDEfFShoF6Azy5V8ZKQ@2x.png' width="144" height="48" alt=''>
             </a>
           </td>
           <td width="20"></td>
           <td class="second" align="left">
             <a href='https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3Demail_digestFooter'>
-              <img src='https://cdn-images-1.medium.com/proxy/1*D-oULOaPtKR8A1jatsII4w@2x.png' alt=''>
+              <img src='https://cdn-images-1.medium.com/proxy/1*D-oULOaPtKR8A1jatsII4w@2x.png' width="161" height="48" alt=''>
             </a>
           </td>
           <td class="pad" width="15"></td>
