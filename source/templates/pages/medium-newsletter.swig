@@ -90,7 +90,7 @@
               </tr>
               <tr>
                 <td width='650' class='mobile-responsive' height='4̀'>
-                  <div></div>
+
                 </td>
               </tr>
               <tr>
@@ -100,7 +100,7 @@
               </tr>
               <tr>
                 <td width='650' class='mobile-responsive' height='12̀'>
-                  <div></div>
+
                 </td>
               </tr>
               <tr>
