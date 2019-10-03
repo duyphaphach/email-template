@@ -1,10 +1,10 @@
 <!--Start Table list by category-->
-<table class='highlight' border='0' cellpadding='0' cellspacing='0' width='650'>
+<table class='highlight mobile-responsive' border='0' cellpadding='0' cellspacing='0' width='650'>
   <tr>
     <td height='60'></td>
   </tr>
   <tr>
-    <td align='left' width='650' class='title'>
+    <td align='left' width='650' class='title mobile-responsive'>
       Best in Javascripts
     </td>
   </tr>
@@ -17,7 +17,7 @@
     </td>
   </tr>
   <tr>
-    <td width='650' class='text-secondary'>
+    <td width='650' class='text-secondary mobile-responsive'>
       <!--Start Other highlight article table-->
       <table border='0' cellpadding='0' cellspacing='0' width='100%' class='other-highlight'>
         {% include '../modules/article-item.swig' %}

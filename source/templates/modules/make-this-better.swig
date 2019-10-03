@@ -1,5 +1,5 @@
 <!--Start Table list by category-->
-<table class='highlight' border='0' cellpadding='0' cellspacing='0' width='650'>
+<table class='highlight mobile-responsive' border='0' cellpadding='0' cellspacing='0' width='650'>
   <tr>
     <td height='60'></td>
   </tr>
@@ -21,7 +21,7 @@
           <center style="color:#03a87c;font-family:sans-serif;font-size:15px;font-weight:normal;">Tailor your topics</center>
         </v:roundrect>
         <![endif]-->
-        <a href="https://medium.com/topics" style="background-color:#ffffff;background-image:url();border:1px solid #03a87c;border-radius:4px;color:#03a87c;display:inline-block;font-family:sans-serif;font-size:15px;font-weight:normal;line-height:40px;text-align:center;text-decoration:none;width:160px;-webkit-text-size-adjust:none;mso-hide:all;">Tailor your topics</a>
+        <a href="https://medium.com/topics" style="border:1px solid #03a87c;border-radius:4px;color:#03a87c;display:inline-block;font-family:sans-serif;font-size:15px;font-weight:normal;line-height:40px;text-align:center;text-decoration:none;width:160px;-webkit-text-size-adjust:none;mso-hide:all;">Tailor your topics</a>
       </div>
     </td>
   </tr>

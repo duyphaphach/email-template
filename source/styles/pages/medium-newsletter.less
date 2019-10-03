@@ -24,6 +24,7 @@ p {
 /* Allow smoother rendering of resized image in Internet Explorer */
 img {
   -ms-interpolation-mode: bicubic;
+  border: none;
 }
 
 // Hide pre-header text
@@ -52,7 +53,7 @@ td {
 
   img {
     width: 291px;
-    height: auto;
+    height: 25px;
   }
 }
 
@@ -119,8 +120,8 @@ td {
     .thumbnail {
       img {
         display: block;
-        max-width: 102px;
-        max-height: 102px;
+        width: 102px;
+        height: 102px;
       }
     }
 
@@ -139,6 +140,10 @@ td {
         .text {
           font-size: 14px;
         }
+      }
+
+      .description {
+        overflow: hidden;
       }
     }
   }
@@ -191,11 +196,7 @@ td {
 
 /* Custom, iPhone Retina */
 @media only screen and (max-width: 320px) {
-  table[width="650"] {
-    width: 100% !important;
-  }
-
-  td[width="650"] {
+  .mobile-responsive {
     width: 100% !important;
   }
 }
