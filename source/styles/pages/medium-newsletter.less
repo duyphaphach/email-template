@@ -26,6 +26,11 @@ img {
   -ms-interpolation-mode: bicubic;
 }
 
+// Hide pre-header text
+.pre-header {
+  display: none !important;
+}
+
 // Styling
 td {
   .font-roboto;
@@ -33,10 +38,6 @@ td {
 
 .text-secondary {
   .text-spicy-pink;
-}
-
-.pre-header {
-  display: none !important;
 }
 
 .separator {
@@ -189,17 +190,18 @@ td {
 }
 
 /* Custom, iPhone Retina */
-@media only screen and (min-width: 320px) {
-}
+@media only screen and (max-width: 320px) {
+  table[width="650"] {
+    width: 100% !important;
+  }
 
-/* Extra Small Devices, Phones */
-@media only screen and (min-width: 480px) {
-
+  td[width="650"] {
+    width: 100% !important;
+  }
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) {
-
+@media only screen and (min-width: 650px) {
 }
 
 /* Medium Devices, Desktops */

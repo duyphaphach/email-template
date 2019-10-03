@@ -15,6 +15,7 @@
     <td align="center">
       <table border='0' cellpadding='0' cellspacing='0' width='650' class='buttons'>
         <tr>
+          <td class="pad" width="15"></td>
           <td class="first" align="right">
             <a href='https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=email_digestFooter'>
               <img src='https://ci3.googleusercontent.com/proxy/igHy99Rf5BXMMY_CEcHQuqRbmtp_0tGzYYR5csD7r3GOS0IkAVWfpa1jAodU5Of0sS_YSqsejJGMe1MKRC_cSRnbsTEGW4BrXTZr15owcwSXRDqLX5hrPw=s0-d-e1-ft#https://cdn-images-1.medium.com/proxy/1*CXKdDEfFShoF6Azy5V8ZKQ@2x.png' alt=''>
@@ -26,6 +27,7 @@
               <img src='https://ci5.googleusercontent.com/proxy/msIag6RYmE1z2OjrBFh7_OxMVwwfLX9xVvYcS_iI3jtVzBEExMHgzQb1Qjb_IZquunpi9GvlqG45ERt4N1OOiojD68Q0N8b8H22sJmmFRfZVksLQ7gdvHg=s0-d-e1-ft#https://cdn-images-1.medium.com/proxy/1*D-oULOaPtKR8A1jatsII4w@2x.png' alt=''>
             </a>
           </td>
+          <td class="pad" width="15"></td>
         </tr>
         <tr>
           <td height='50'></td>
@@ -37,7 +39,9 @@
     <td align="center">
       <table border='0' cellpadding='0' cellspacing='0' width='650'>
         <tr>
+          <td class="pad" width="15"></td>
           <td style="background:none; border-bottom: 1px solid #8e8e8e; height:2px; width:100%; margin:0px 0px 0px 0px;"></td>
+          <td class="pad" width="15"></td>
         </tr>
       </table>
     </td>

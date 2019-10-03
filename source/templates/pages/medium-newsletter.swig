@@ -59,7 +59,7 @@
           <td width='650' class='text-secondary'>
 
             <!--Start Highlight article table-->
-            <table border='0' cellpadding='0' cellspacing='0' width='100%' class='highlight-content'>
+            <table class='highlight-content' border='0' cellpadding='0' cellspacing='0' width='100%'>
               <tr>
                 <td align='left' width='650' class='thumb'>
                   <a href='https://medium.com/@derek_develops/how-to-check-for-a-number-in-javascript-8d9024708153?source=email-3a5bd24b8a8b-1569873987957-digest.reader------0-58------------------609cc773_5e28_4158_bae3_367beb0ca3a2-1-----&amp;sectionName=top'>
@@ -130,7 +130,7 @@
       <!--End Table Today's Highlight-->
 
       <!--Start Articles by categories-->
-      {% include '../modules/list-by-category.swig'  %}
+      {% include '../modules/list-by-category.swig' %}
       {% include '../modules/reading-history.swig' %}
       {% include '../modules/best-in.swig' %}
       <!--End Articles by categories-->

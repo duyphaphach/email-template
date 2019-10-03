@@ -6,7 +6,7 @@
     <img src='https://ci5.googleusercontent.com/proxy/PtCBbXrlHwSozNd10pNJGAai1ekVK_twle2jsd0OE6QREDrN8vQ20yVtxn_VfYbJZMT-5q6xNdRpNCpDr0nsXVQPSBg0gempO-78Uv3uzlFWZ2B8A_zC7qW_zitr48D7zGk=s0-d-e1-ft#https://cdn-images-1.medium.com/fit/c/420/420/1*FoHKdxbySJ8K8GXcC29RKw.png?q=50' alt=''>
   </td>
   <td width="18" height="102"></td>
-  <td width="485" height="102" valign="top">
+  <td height="102" valign="top">
 
     <!--Start Other highlight article content table-->
     <table border='0' cellpadding='0' cellspacing='0' width='100%' class='highlight-content'>
