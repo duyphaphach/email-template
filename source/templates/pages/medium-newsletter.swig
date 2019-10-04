@@ -132,9 +132,9 @@
           <td width='650' class='text-secondary mobile-responsive'>
             <!--Start Other highlight article table-->
             <table border='0' cellpadding='0' cellspacing='0' width='100%' class='other-highlight'>
-              {% include '../modules/article-item.swig' %}
-              {% include '../modules/article-item.swig' %}
-              {% include '../modules/article-item.swig' %}
+              {% include '../modules/pages/medium-newsletter//article-item.swig' %}
+              {% include '../modules/pages/medium-newsletter//article-item.swig' %}
+              {% include '../modules/pages/medium-newsletter//article-item.swig' %}
             </table>
             <!--End Other highlight article table-->
           </td>
@@ -147,7 +147,7 @@
   <tr>
     <td align='center' valign='top' width='100%' class="mobile-responsive">
       <!--Start Quick read-->
-      {% include '../modules/list-by-category.swig' %}
+      {% include '../modules/pages/medium-newsletter/list-by-category.swig' %}
       <!--End Quick read-->
     </td>
   </tr>
@@ -155,7 +155,7 @@
   <tr>
     <td align='center' valign='top' width='100%' class="mobile-responsive">
       <!--Start Reading History-->
-      {% include '../modules/reading-history.swig' %}
+      {% include '../modules/pages/medium-newsletter/reading-history.swig' %}
       <!--End Reading History-->
     </td>
   </tr>
@@ -163,7 +163,7 @@
   <tr>
     <td align='center' valign='top' width='100%' class="mobile-responsive">
       <!--Start Best In-->
-      {% include '../modules/best-in.swig' %}
+      {% include '../modules/pages/medium-newsletter/best-in.swig' %}
       <!--End Best In-->
     </td>
   </tr>
@@ -171,7 +171,7 @@
   <tr>
     <td align='center' valign='top' width='100%' class="mobile-responsive">
       <!--Start Make this mail better-->
-      {% include '../modules/make-this-better.swig' %}
+      {% include '../modules/pages/medium-newsletter/make-this-better.swig' %}
       <!--End Make this mail better-->
     </td>
   </tr>
@@ -179,7 +179,7 @@
   <tr>
     <td align='center' valign='top' width='100%' class="mobile-responsive">
       <!--Start Footer-->
-      {% include '../modules/footer.swig' %}
+      {% include '../modules/pages/medium-newsletter/footer.swig' %}
       <!--End Footer-->
     </td>
   </tr>

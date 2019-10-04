@@ -5,7 +5,7 @@
   </tr>
   <tr>
     <td align='left' width='650' class='title mobile-responsive'>
-      Based on your reading history
+      Quick read
     </td>
   </tr>
   <tr>
@@ -20,9 +20,9 @@
     <td width='650' class='text-secondary mobile-responsive'>
       <!--Start Other highlight article table-->
       <table border='0' cellpadding='0' cellspacing='0' width='100%' class='other-highlight'>
-        {% include '../modules/article-item.swig' %}
-        {% include '../modules/article-item.swig' %}
-        {% include '../modules/article-item.swig' %}
+        {% include './article-item.swig' %}
+        {% include './article-item.swig' %}
+        {% include './article-item.swig' %}
       </table>
       <!--End Other highlight article table-->
     </td>

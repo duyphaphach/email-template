@@ -143,6 +143,11 @@ const webpackConfig = removeEmpty({
       template: `${APP_DIR}/templates/pages/medium-newsletter.swig`,
     }),
     new HtmlWebpackPlugin({
+      title: 'Envato Market',
+      filename: 'envato.html',
+      template: `${APP_DIR}/templates/pages/envato.swig`,
+    }),
+    new HtmlWebpackPlugin({
       title: 'Medium Newsletter',
       filename: 'index.html',
       template: `${APP_DIR}/templates/index.swig`,
