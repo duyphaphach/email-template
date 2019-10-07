@@ -132,9 +132,9 @@
           <td width='650' class='text-secondary mobile-responsive'>
             <!--Start Other highlight article table-->
             <table border='0' cellpadding='0' cellspacing='0' width='100%' class='other-highlight'>
-              {% include '../modules/pages/medium-newsletter//article-item.swig' %}
-              {% include '../modules/pages/medium-newsletter//article-item.swig' %}
-              {% include '../modules/pages/medium-newsletter//article-item.swig' %}
+              {% include '../modules/pages/medium-newsletter/article-item.swig' %}
+              {% include '../modules/pages/medium-newsletter/article-item.swig' %}
+              {% include '../modules/pages/medium-newsletter/article-item.swig' %}
             </table>
             <!--End Other highlight article table-->
           </td>

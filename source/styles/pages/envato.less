@@ -1,0 +1,182 @@
+/**
+ * Email - Envato
+ ****************
+ */
+
+// Reset client default css
+body {
+  padding: 0;
+  margin: 0;
+  background: #ffffff;
+  -webkit-text-size-adjust: none;
+}
+
+a {
+  color: #000;
+  text-decoration: none
+}
+
+p {
+  padding: 0;
+  margin: 0
+}
+
+/* Allow smoother rendering of resized image in Internet Explorer */
+img {
+  -ms-interpolation-mode: bicubic;
+  border: none;
+}
+
+// Hide pre-header text
+.pre-header {
+  display: none;
+  mso-hide: all;
+
+  table, td {
+    mso-hide: all;
+  }
+}
+
+// Styling
+.section {
+  .h1 {
+    .font-roboto;
+    .text-mine-shaft;
+
+    font-size: 36px;
+    line-height: 125%;
+    mso-line-height: exactly;
+  }
+
+  .h2 {
+    .font-roboto-bold;
+    .text-mine-shaft;
+
+    font-size: 24px;
+    line-height: 125%;
+    mso-line-height: exactly;
+  }
+
+  .h3 {
+    .font-roboto-bold;
+    .text-dodge-blue;
+
+    font-size: 16px;
+    line-height: 125%;
+    mso-line-height: exactly;
+
+    a {
+      .font-roboto-bold;
+      .text-dodge-blue;
+
+      font-size: 16px;
+      line-height: 125%;
+      mso-line-height: exactly;
+    }
+  }
+
+  .mixkit-header {
+    .font-roboto-bold;
+    .text-mine-shaft;
+
+    font-size: 32px;
+    line-height: 125%;
+    mso-line-height: exactly;
+  }
+
+  .description {
+    .text-mine-shaft;
+
+    font-size: 16px;
+
+    a {
+      .text-dodge-blue;
+      .font-roboto-bold;
+
+      font-size: 16px;
+    }
+
+    .bold {
+      .font-roboto-bold;
+
+      font-size: 16px;
+    }
+  }
+}
+
+td {
+  .font-roboto;
+
+  font-size: 16px;
+  line-height: 150%;
+  mso-line-height: exactly;
+
+  span,
+  a {
+    .font-roboto;
+  }
+}
+
+a > span {
+  text-decoration: none;
+}
+
+.handcraft {
+  background-color: #d2fae6;
+}
+
+// Header
+.header {
+  td {
+    .text-manatee;
+
+    font-size: 12px;
+
+    a {
+      .text-manatee;
+
+      text-decoration: underline;
+    }
+  }
+}
+
+// Footer
+.footer {
+  td {
+    .text-manatee;
+
+    font-size: 12px;
+
+    a {
+      .text-manatee;
+
+      text-decoration: underline;
+    }
+  }
+}
+
+.show-mobile {
+  mso-hide: all;
+
+  a {
+    mso-hide: all;
+  }
+}
+
+
+@media only screen and (min-width: 600px) {
+  .show-mobile {
+    display: none;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  .mobile-responsive {
+    width: 100%;
+  }
+
+  .hide-mobile {
+    display: none;
+  }
+}
